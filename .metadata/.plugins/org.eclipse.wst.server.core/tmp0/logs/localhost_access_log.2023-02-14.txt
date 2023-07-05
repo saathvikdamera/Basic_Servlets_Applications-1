@@ -1,0 +1,10 @@
+127.0.0.1 - - [14/Feb/2023:09:47:02 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:09:47:04 +0530] "GET /04-UserLoginRegister/ HTTP/1.1" 200 412
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:09:47:11 +0530] "GET /04-UserLoginRegister/register.html HTTP/1.1" 200 686
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:09:48:04 +0530] "POST /04-UserLoginRegister/Register HTTP/1.1" 200 76
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:09:48:08 +0530] "GET /04-UserLoginRegister/index.html HTTP/1.1" 200 406
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:09:48:20 +0530] "POST /04-UserLoginRegister/Login HTTP/1.1" 200 42
+127.0.0.1 - - [14/Feb/2023:10:22:57 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:10:22:58 +0530] "GET /04-UserLoginRegister/ HTTP/1.1" 200 412
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:10:23:06 +0530] "POST /04-UserLoginRegister/Login HTTP/1.1" 200 484
+0:0:0:0:0:0:0:1 - - [14/Feb/2023:10:23:15 +0530] "POST /04-UserLoginRegister/Login HTTP/1.1" 200 632

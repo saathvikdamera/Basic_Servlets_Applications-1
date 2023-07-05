@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.sql.DriverManager"/>
+    <fullyQualifiedTypeName name="java.sql.SQLException"/>
+    <fullyQualifiedTypeName name="com.Damera.connection.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="com.zaxxer.hikari.HikariDataSource"/>
+    <fullyQualifiedTypeName name="com.Damera.ConnectionFactory.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Properties"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="com.Damera.EmployeeDAO.EmployeeDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.DTO.EmployeeDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.Dto.RecordsDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.Dao.RecordsDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.connectionfactory.ConnectionFactory"/>
+    <fullyQualifiedTypeName name="com.Damera.DTO.UserAppDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.DAO.UserAppDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.DTO.UserAddressDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.DAO.UserAddressDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.DTO.UserEduDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.DAO.UserEduDAO"/>
+    <fullyQualifiedTypeName name="com.Damera.DTO.UserDetailsDTO"/>
+    <fullyQualifiedTypeName name="com.Damera.DAO.UserDetailsDAO"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,12 @@
+127.0.0.1 - - [06/Feb/2023:11:46:26 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:11:46:30 +0530] "GET /01-FirstServlet/Greet HTTP/1.1" 200 21
+127.0.0.1 - - [06/Feb/2023:11:54:18 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:11:54:19 +0530] "GET /02-Request_Servelet/Name HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:11:54:29 +0530] "GET /02-Request_Servelet/ HTTP/1.1" 200 293
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:11:54:38 +0530] "GET /02-Request_Servelet/Name?name=saathvik HTTP/1.1" 200 22
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:12:16:07 +0530] "GET /02-Request_Servelet/Name?name=Abhi HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:12:16:41 +0530] "GET /02-Request_Servelet/Name?name=Soni+ HTTP/1.1" 200 19
+127.0.0.1 - - [06/Feb/2023:12:24:58 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:12:24:59 +0530] "GET /02-Request_Servelet/Name HTTP/1.1" 200 18
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:12:25:06 +0530] "GET /02-Request_Servelet/ HTTP/1.1" 200 293
+0:0:0:0:0:0:0:1 - - [06/Feb/2023:12:25:15 +0530] "GET /02-Request_Servelet/Name?name=Vishal+Scat HTTP/1.1" 200 25
